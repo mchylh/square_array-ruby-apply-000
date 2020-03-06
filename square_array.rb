@@ -7,4 +7,3 @@ def square_array(numbers)
  end
  puts square_array(numbers)
 end
-
